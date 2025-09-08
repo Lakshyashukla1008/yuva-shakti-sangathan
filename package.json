@@ -1,0 +1,17 @@
+{
+  "name": "yss",
+  "version": "1.0.0",
+  "description": "A full mern Project for a yuva shakti sangathan Organization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yuva",
+    "shakti",
+    "sangathan",
+    "Yss"
+  ],
+  "author": "Lakshya shukla",
+  "license": "ISC"
+}
